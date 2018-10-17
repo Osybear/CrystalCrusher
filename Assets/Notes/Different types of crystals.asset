@@ -9,7 +9,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 990ac4d37ea753444bfd01da52cf6019, type: 3}
-  m_Name: Crystal Pulse
+  m_Name: Different types of crystals
   m_EditorClassIdentifier: 
-  description: Some shader that makes the crystal pulsate light or maybe just change
-    emmision cuz lazy
+  description: '- Crystals with more health. Takes more hits to break
+
+    - Crystals that cannot be destroyed with the mallet but instead have to be moved
+    to an "incinerator"
+
+    - Crystals that are out of reach and the player needs to do "something" to reach
+    it. Obstacles and what not'

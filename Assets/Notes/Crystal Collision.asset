@@ -9,7 +9,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 990ac4d37ea753444bfd01da52cf6019, type: 3}
-  m_Name: Crystal Pulse
+  m_Name: Crystal Collision
   m_EditorClassIdentifier: 
-  description: Some shader that makes the crystal pulsate light or maybe just change
-    emmision cuz lazy
+  description: "When the crystal breaks into smalled pieces \ndisable collisions with
+    player and pieces."

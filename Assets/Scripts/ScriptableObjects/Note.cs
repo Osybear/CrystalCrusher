@@ -4,6 +4,7 @@ using UnityEngine;
 
 [CreateAssetMenu]
 public class Note : ScriptableObject {
-	[TextArea]
+	
+	[TextArea(20,20)]
 	public string description;
 }

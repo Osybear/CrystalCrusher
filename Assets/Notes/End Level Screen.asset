@@ -9,6 +9,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 990ac4d37ea753444bfd01da52cf6019, type: 3}
-  m_Name: Crustal Spin
+  m_Name: End Level Screen
   m_EditorClassIdentifier: 
-  description: 'Have the crystal spinning chaoticaly '
+  description: Kinda like mario animation when he picks up a star something like that.
+    If so then I need to make a player model Dx
