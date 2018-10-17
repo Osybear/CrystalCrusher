@@ -12,6 +12,8 @@ public class LevelManager : MonoBehaviour {
 		numCrystalsLeft--;
 		if(numCrystalsLeft <= 0){
 			Debug.Log("You win");
+			Cursor.lockState = CursorLockMode.None;
+			Cursor.visible = true;
 			SceneManager.LoadScene("Menu");
 		}
 	}
