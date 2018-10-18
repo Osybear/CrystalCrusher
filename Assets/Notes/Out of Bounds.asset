@@ -9,7 +9,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 990ac4d37ea753444bfd01da52cf6019, type: 3}
-  m_Name: Sound Effects
+  m_Name: Out of Bounds
   m_EditorClassIdentifier: 
-  description: " Mallet hit sound effect \n Mallet swing sound effect\n Crystal explosion
-    effect\n You win sound effect\nx Main menu sound effects\n- Music for the game "
+  description: Respawn the player if they go out of bounds rofl

@@ -17,4 +17,6 @@ MonoBehaviour:
     to an "incinerator"
 
     - Crystals that are out of reach and the player needs to do "something" to reach
-    it. Obstacles and what not'
+    it. Obstacles and what not
+
+    - Destroy "these" crystals to destroy "that" crystal'
