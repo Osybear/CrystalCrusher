@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b08d5c29d2b0db3478967cb2df9327be, type: 3}
+  m_Name: MalletHit
+  m_EditorClassIdentifier: 
+  list:
+  - {fileID: 8300000, guid: 3f956c5f5c5b0734d865b88688a2ad03, type: 3}
+  - {fileID: 8300000, guid: 5308003c4b7c9cb4a80e890d281631f7, type: 3}
+  - {fileID: 8300000, guid: 9abf3c1d128680e4f9e43e760e0da24d, type: 3}
+  - {fileID: 8300000, guid: 22edff246af09ca488fc482dc131e0d6, type: 3}
+  - {fileID: 8300000, guid: 40901516c6cee7441859b5aa1fb2bd50, type: 3}
