@@ -4,10 +4,12 @@ using UnityEngine;
 
 public class Oob : MonoBehaviour {
 
-	public Transform spawnPoint;
-	private void OnTriggerEnter(Collider other) {
-		if(other.tag == "Player"){
-			other.transform.position = spawnPoint.position;
+	public float yCutOff;
+	public Vector3 spawnPoint;
+
+	private void Update() {
+		if(transform.position.y < yCutOff){
+			transform.position = spawnPoint;
 		}
 	}
 }
