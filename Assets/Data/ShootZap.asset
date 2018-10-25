@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b08d5c29d2b0db3478967cb2df9327be, type: 3}
+  m_Name: ShootZap
+  m_EditorClassIdentifier: 
+  list:
+  - {fileID: 8300000, guid: a27cbe4cbc5a4d6418b15c340ba39796, type: 3}
+  - {fileID: 8300000, guid: 74404bb5c041afa4ca4cf2e74f9b779e, type: 3}
+  - {fileID: 8300000, guid: 4d1613f0bd83aec439ae07f2094ca1ee, type: 3}
